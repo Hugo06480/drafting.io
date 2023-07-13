@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kablammo&display=swap");
+
+:root {
+	--bg-color: #1e1e1e;
+	--test: red;
+}
+
+* {
+	/* font-family: "Kablammo", cursive; */
+	font-family: "Roboto", sans-serif;
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+	background-color: var(--bg-color);
+	color: white;
+}

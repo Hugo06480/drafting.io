@@ -1,0 +1,6 @@
+html {
+	height: 100vh;
+	display: flex;
+	overflow-x: hidden;
+	overflow: hidden;
+}

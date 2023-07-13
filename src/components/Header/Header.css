@@ -1,0 +1,13 @@
+.link:hover {
+	/* background-color: white !important; */
+	border-bottom: 1px solid lightgray;
+}
+
+.link {
+	min-width: 100px;
+	height: 100%;
+}
+
+.hoverGray:hover {
+	background-color: #181818;
+}
